@@ -22,3 +22,5 @@
 
 
 [cloudflare部署地址](https://dash.cloudflare.com/fa5d11017a4484a0e5409c2c19d57c9a/pages/view/telegraph-image)
+
+<a href="https://example.com" target="_blank">访问示例网站</a>
